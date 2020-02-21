@@ -1,4 +1,4 @@
-# The Human Colosssu Foundation homepage
+# The Human Colossus Foundation homepage
 
 
 Theme by [Matt Graham](http://madebygraham.com), twitter [@mattgraham](http://twitter.com/#!/mattgraham)
